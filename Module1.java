@@ -1,5 +1,5 @@
 class Module1 {
     public static void main(String[] args) {
-        System.out.println("Module 1 done! Test for push new");
+        System.out.println("Module 1 done! Test for push");
     }
 }
